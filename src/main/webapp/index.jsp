@@ -6,7 +6,7 @@
 <body>
 <%--Navbar--%>
 <%@include file="component/navbar.jsp" %>
-
+<h1>Home Page</h1>
 
 </body>
 </html>

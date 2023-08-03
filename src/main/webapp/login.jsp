@@ -8,7 +8,7 @@
 <body>
 <%--Navbar--%>
 <%@include file="component/navbar.jsp" %>
-
+<h1>Login Page</h1>
 
 </body>
 </html>
